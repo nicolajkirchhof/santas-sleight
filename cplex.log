@@ -1,0 +1,30 @@
+
+Log started (V12.5.0.1) Mon Jan 04 00:40:09 2016
+
+New value for upper limit on size of tree in megabytes: 50000
+New value for file for node storage when tree memory limit reached: 3
+New value for control the creation of clone log files: 1
+New value for default parallel thread count: 2
+New value for time limit in seconds: 3600
+New value for directory for CPLEX working files: c:\tmp
+New value for memory available for working storage (in megabytes): 8000
+New value for writelevel: 1
+Initial parameter values read from CPLEX.PAR.
+
+
+Log started (V12.5.0.1) Mon Jan 04 01:16:09 2016
+
+New value for upper limit on size of tree in megabytes: 100000
+New value for file for node storage when tree memory limit reached: 3
+New value for control the creation of clone log files: 1
+New value for default parallel thread count: 4
+New value for time limit in seconds: 18000
+New value for directory for CPLEX working files: c:\tmp
+New value for memory available for working storage (in megabytes): 10000
+New value for writelevel: 1
+Initial parameter values read from CPLEX.PAR.
+
+
+Problem 'minsets.lp' read.
+Read time = 1694.03 sec. (25162.87 ticks)
+CPLEX Error  1001: Out of memory.
